@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Lehan Zhang's home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lehan Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Lehan Zhang is a junior at Beijing Institute of Fashion Technology, focused on AI research and aiming for graduate studies at Peking University."
+  location         : "Beijing"
+  employer         : "Beijing Institute Of Fashion Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lehanzhang2004@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

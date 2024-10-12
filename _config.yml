@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headphoto.png"
   name             : "Lehan Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Lehan Zhang is a junior at Beijing Institute of Fashion Technology, focused on AI research and aiming for graduate studies at Peking University."

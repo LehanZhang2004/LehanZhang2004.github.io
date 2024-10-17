@@ -28,7 +28,8 @@ To be updated
 
 ## My Project
 
-To be updated
+1. [Distributed big data server based on C++](https://github.com/LehanZhang2004/lehanzhang_server_project)
+To be updated......
 
 ## My Concern
 
